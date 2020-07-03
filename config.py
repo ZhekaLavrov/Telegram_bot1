@@ -1,0 +1,2 @@
+TOKEN = '1066535752:AAGTENCif0IMZJEDfEcu7KWDftseWKX5c7s' # Токен бота
+CHANEL_ID = '1001328606172' # id канала
